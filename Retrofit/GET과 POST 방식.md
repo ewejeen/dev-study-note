@@ -15,3 +15,7 @@
 **2.POST**
 - `@FormUrlEncoded`를 사용해야 한다.
 - `@Field`를 사용해서 parameter를 보내 준다.
+
+
+**************
+참고: https://flymogi.tistory.com/entry/Retrofit을-사용해보자-v202
